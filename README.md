@@ -6,4 +6,4 @@
 *   **r**, annual rate of interest
 
 **Output**:
-*   **simple interest** = p $\times$ t $\times$ r
+*   **simple interest** = p\*t\*r
